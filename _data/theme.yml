@@ -93,10 +93,10 @@ navbar-background: bg-success
 bootswatch: #pulse#
 
 # THEME FONTS
-base-font-size: 1.4em
-text-color: "#784212"
+base-font-size: 1.7em
+text-color: "#53351b"
 link-color: "#196f3d"
-base-font-family: Roboto
+base-font-family: #Roboto#
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
