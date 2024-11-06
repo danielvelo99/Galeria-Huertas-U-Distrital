@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Titulo,
 creator,autor,
 date,Date Created,
-description,Description,
+description,Description,contexto
 subject,Subjects,true
 location,Location
 latitude,Latitude
