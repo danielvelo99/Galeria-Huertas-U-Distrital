@@ -20,12 +20,12 @@ source-code: https://github.com/danielvelo99/Galeria-Huertas-U-Distrital
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Galeria digital de semillas ancestrales en las huertas de la universidad distrital
+title: Galeria digital de semillas ancestrales en las huertas de la Universidad Distrital
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: conoce el patrimonio cultural inmaterial presente en las semillas nativas y criollas
+tagline: una descripción visual de la herencia cultural transmitida a traves de las semillas nativas y criollas del territorio
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "colección de fotografias que resaltan la importancia de las semillas nativas y criollas presentes en las huertas de la universidad pública de Bogotá para la preservación del patrimonio cultural inmaterial"
+description: "Esta investigación se centra en visibilizar la labor de las huertas universitarias en la preservación del patrimonio. A través de una galería digital, el proyecto documenta y organ iza de manera visual y detallada cada semilla y cultivo, permitiendo un mapeo de la ubicación de estas huertas en la ciudad, las características y contexto cultural de cada semilla"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: danielvelo99
 
