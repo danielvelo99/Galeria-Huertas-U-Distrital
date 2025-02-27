@@ -30,8 +30,10 @@
 {% endif %}
 <p class="text-center my-3">
     <audio controls class="w-100">
+        % include feature/audio.html objectid="demo_003" width="50" caption="a mp3 from the collection"
         <source src="{{ src }}" >
         Your browser does not support the audio element.
     </audio>
-    {% unless include.caption == false %}<small class="figure-caption"><a href="{{ audio_link }}">{{ audio_caption }}</a></small>{% endunless %}
+    {% unless include.caption == false %}<small class="figure-caption"><a href="{{ objects
+/entrevista huerta la kolina.mp3 }}">{{ audio_caption }}</a></small>{% endunless %}
 </p>
